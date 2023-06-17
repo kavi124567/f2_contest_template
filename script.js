@@ -7,7 +7,10 @@ let arr = [
 ];
 
 function PrintDeveloperbyMap() {
-  //Write your code here , just console.log
+  function getFullName(item) 
+  return [item.id: 1,item.id: 2]
+
+
 }
 
 function PrintDeveloperbyForEach() {
